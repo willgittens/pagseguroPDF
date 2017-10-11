@@ -1,0 +1,14 @@
+{
+  "produtos":[
+    {
+			  "itemDescription1": "",
+			  "itemId1": "",
+			  "itemAmount1": "",
+			  "itemQuantity1": 1,
+			  "currency": "BRL",
+			  "paginas": "",
+			  "posicaoX": "",
+			  "posicaoY": ""
+    }
+  ]
+}
